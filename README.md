@@ -1,2 +1,2 @@
 # pruebaGIT
-repositorio de prueba
+repositorio de prueba para UVEG
